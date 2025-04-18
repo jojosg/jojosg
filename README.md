@@ -1,4 +1,4 @@
-## Hi there 👋
+프론트앤드 개발자 지망생입니다👨🏻‍💻
 
 <!--
 **jojosg/jojosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
