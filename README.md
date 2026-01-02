@@ -1,4 +1,4 @@
-<div align="center">프론트앤드 개발자 지망생입니다👨🏻‍💻</div>
+<div align="center"><h1>프론트 개발자 지망생입니다👨🏻‍💻</h1></div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Seunggi's%20GitHub&fontSize=42" />
 
@@ -36,9 +36,26 @@
 </div>
 <div align="center">
 <h3 align="center">🛠 Tools 🛠</h3>
+  <div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+  </div>
 </div>
 <div align="center">
 <h3 align="center">📫 Contact 📫</h3>
+<a href="mailto:jojosg93@naver.com">
+  <img
+    src="https://img.shields.io/badge/jojosg93@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"
+  />
+</a>
 </div>
 <!--
 **jojosg/jojosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
