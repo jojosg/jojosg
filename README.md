@@ -1,5 +1,5 @@
 프론트앤드 개발자 지망생입니다👨🏻‍💻
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://프론트엔드 개발자 지망생입니다.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--
 **jojosg/jojosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
