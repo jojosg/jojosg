@@ -33,6 +33,7 @@
 </div>
 <div align="center">
 <h3 align="center">📚 Studying 📚</h3>
+  <img src="https://img.shields.io/badge/Zustand-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 <div align="center">
 <h3 align="center">🛠 Tools 🛠</h3>
